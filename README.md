@@ -20,7 +20,7 @@ By the end of this project, the analysis aims to:
 
 - Understand the structure and quality of the healthcare dataset
 - Analyze patient demographics (age, gender, blood type)
-- Explore admission patterns (Emergency, Elective, Urgent)
+- Explore patient flow and capacity planning (Emergency, Elective, Urgent)
 - Examine medical conditions and their frequency
 - Analyze billing amounts across admission types and insurance providers
 - Calculate and study patient length of stay using admission and discharge dates
@@ -51,7 +51,7 @@ The dataset contains synthetic hospital patient records, including:
 - Date of Admission
 - Discharge Date
 - Length of Stay
-- Billing Amount
+- Operational Cost Analysis & Resource Utilization
 - Insurance Provider
 - Test Results
 
